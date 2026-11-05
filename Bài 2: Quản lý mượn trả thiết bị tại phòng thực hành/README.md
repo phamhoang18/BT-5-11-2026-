@@ -15,4 +15,4 @@
 ![Thực thi chức năng đánh dấu đã trả](./screenshots/Bài_4.10_trả.png)
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 ![Kiểm tra lỗi](./screenshots/Bài_4.10_lỗi_1.png)
-![Kiểm tra lỗi](./screenshots/Bài_4.10_lỗi_2_tên.png)
+![Kiểm tra lỗi](./screenshots/Bài_4.10_lỗi_2.png)
