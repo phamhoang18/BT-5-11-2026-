@@ -12,7 +12,7 @@
 ![Thực thi chức năng thêm](./screenshots/Bài_4.9_add.png) 
 ![Thực thi chức năng cập nhật](./screenshots/Bài_4.9_update.png)
 ![Thực thi chức năng xóa](./screenshots/Bài_4.9_delete.png)
-![Thực thi chức năng lọc theo ngày](./screenshots/Bài_4.6_Lọc.png)
+![Thực thi chức năng lọc theo ngày](./screenshots/Bài_4.9_Lọc.png)
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 ![Kiểm tra lỗi](./screenshots/Bài_4.9_Lỗi.png)
 
